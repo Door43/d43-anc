@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[anc:home|Door43 (anc)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-anc|d43-anc repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-anc/archive/master.zip|d43-anc.zip]]
+
+**Recent Changes**
+{{changes>ns = anc}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/anc|Ethnologue data]]
+
